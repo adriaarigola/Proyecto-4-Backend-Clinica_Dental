@@ -49,7 +49,7 @@ Tecnologías utilizadas:
 
 ## Diagrama BD
 
-!['imagen-db'](./public/images/ClinicaDentalRelations.png)
+!['imagen-db'](./public/images/ClinicaRelations.png)
 
 ## Instalación en local
 
